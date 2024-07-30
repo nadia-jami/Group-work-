@@ -20,7 +20,7 @@
   .items {
     justify-content: center;
     display: flex;
-    padding: 15px;
+    padding: 14px;
     width: 70%;
   }
   .items li {
